@@ -15,6 +15,5 @@ int main() {
         b = proximo;
         i++;
     }
-
     return 0;
 }
