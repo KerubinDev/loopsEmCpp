@@ -5,7 +5,7 @@ int main() {
     int num_linhas, Kerubin;
 
     cout << "Kerubin existe(1 para sim e 0 para não)?";
-    cin >> Kerubin;
+    cin >> Kerubin; //Eu :D
 
     if (Kerubin == 1){
         
